@@ -2,7 +2,7 @@
 
 [![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
 
-This gem allows Sinatra to run on AWS Lambda with [Jets](http://rubyonjets.com/).
+A [Jets Plugin](https://docs.rubyonjets.com/docs/plugins/) for Sinatra and [Jets](http://rubyonjets.com/).
 
 ## Usage
 

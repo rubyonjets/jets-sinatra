@@ -7,9 +7,12 @@ Jets::Sinatra::Autoloader.setup
 
 require "memoist"
 require "rainbow/ext/string"
+require "sinatra"
 
 module Jets
   module Sinatra
     class Error < StandardError; end
   end
 end
+
+require "jets/sinatra/plugin"

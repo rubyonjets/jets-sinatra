@@ -6,7 +6,6 @@ Gem::Specification.new do |spec|
   spec.name = "jets-sinatra"
   spec.version = Jets::Sinatra::VERSION
   spec.authors = ["Tung Nguyen"]
-  spec.email = ["tongueroo@gmail.com"]
 
   spec.summary = "Jets Sinatra Support"
   spec.homepage = "https://github.com/rubyonjets/jets-sinatra"
